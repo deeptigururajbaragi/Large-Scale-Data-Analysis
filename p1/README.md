@@ -1,18 +1,10 @@
 # Project 1: Better Inverted Index Program 
 
 * Author: Deepti Gururaj Baragi
-* Class: CS535 Section 1
-* Semester: 3 
 
 ## Overview
 This Python program utilizes Hadoop's MapReduce framework to construct an inverted index from a collection of text documents. In addition to mapping word occurrences, it enhances the standard inverted index by ranking documents based on their relevance. The relevance is determined by the number of occurrences of the word within each document. This improvement ensures that the most relevant documents are positioned at the top of the search results. Even in cases where multiple documents have the same word count, they are sorted alphabetically to maintain consistency.  
 
-
-## Reflection
-
-During this project, I found the process of building an improved inverted index using Hadoop's MapReduce framework to be a valuable learning experience. What worked particularly well was the concept of ranking documents based on word occurrences, as it enhanced the understandability and readability of the output. The idea of employing a two-level sorting approach, initially by count and then alphabetically, added a layer of complexity to the project.
-
-I encountered a memory issue during the initial stages of project that caused certain operations to be problematic. To address this, I allocated additional memory resources to the task and expanded the disk space. Additionally, I faced the issue of a "NameNode is in safe mode," which was caused by problems in the data nodes or potential file system corruption. To resolve this, I had to stop the DataNode and ResourceManager (YARN), and then reformat the Hadoop file system. Despite these challenges, I enjoyed working on this project as it provided an opportunity to apply and enhance my knowledge of MapReduce. 
 
 ## Compiling and Using
 
