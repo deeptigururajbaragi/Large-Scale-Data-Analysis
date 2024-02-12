@@ -1,0 +1,254 @@
+Fall,Ed's Next Move (1996),5.0
+Fall,Dingo (1992),5.0
+Fall,Mamma Roma (1962),5.0
+Fall,Criminal Lovers (Les Amants Criminels) (1999),5.0
+Fall,N�nette et Boni (1996),5.0
+Fall,Rosie (1998),5.0
+Fall,Dangerous Ground (1997),5.0
+Fall,24 7: Twenty Four Seven (1997),5.0
+Fall,I Am Cuba (Soy Cuba/Ya Kuba) (1964),5.0
+Fall,Gate of Heavenly Peace, The (1995),5.0
+Fall,Seven Chances (1925),5.0
+Fall,Bittersweet Motel (2000),5.0
+Fall,Boys Life 2 (1997),5.0
+Fall,Schlafes Bruder (Brother of Sleep) (1995),5.0
+Fall,Follow the Bitch (1998),5.0
+Fall,Dadetown (1995),4.666666666666667
+Fall,Eighth Day, The (Le Huiti�me jour ) (1996),4.666666666666667
+Fall,Young and Innocent (1937),4.666666666666667
+Fall,West Beirut (West Beyrouth) (1998),4.666666666666667
+Fall,Lamerica (1994),4.666666666666667
+Fall,Ayn Rand: A Sense of Life (1997),4.666666666666667
+Fall,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),4.610878661087866
+Fall,Hana-bi (1997),4.6
+Fall,Cold Fever (� k�ldum klaka) (1994),4.6
+Fall,Sanjuro (1962),4.6
+Fall,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.575757575757576
+Fall,Paths of Glory (1957),4.549019607843137
+Fall,Shawshank Redemption, The (1994),4.539978094194962
+Fall,Yojimbo (1961),4.53932584269663
+Fall,Usual Suspects, The (1995),4.5162162162162165
+Fall,Raiders of the Lost Ark (1981),4.516192345436703
+Fall,Godfather, The (1972),4.507119386637459
+Fall,Schindler's List (1993),4.505561172901921
+Fall,Bells, The (1926),4.5
+Fall,JLG/JLG - autoportrait de d�cembre (1994),4.5
+Fall,Apple, The (Sib) (1998),4.5
+Fall,I Stand Alone (Seul contre tous) (1998),4.5
+Fall,Two or Three Things I Know About Her (1966),4.5
+Fall,Soft Fruit (1999),4.5
+Fall,Perfect Blue (1997),4.5
+Fall,Wrong Trousers, The (1993),4.5
+Fall,For All Mankind (1989),4.5
+Fall,Return with Honor (1998),4.5
+Fall,Third Man, The (1949),4.492227979274611
+Fall,Close Shave, A (1995),4.4884615384615385
+Fall,Nights of Cabiria (Le Notti di Cabiria) (1957),4.487804878048781
+Fall,Wallace & Gromit: The Best of Aardman Animation (1996),4.478527607361963
+Fall,Grand Illusion (Grande illusion, La) (1937),4.464788732394366
+Fall,To Kill a Mockingbird (1962),4.46242774566474
+Fall,Citizen Kane (1941),4.458715596330276
+Spring,World of Apu, The (Apur Sansar) (1959),5.0
+Spring,Callej�n de los milagros, El (1995),5.0
+Spring,Midaq Alley (Callej�n de los milagros, El) (1995),5.0
+Spring,Hearts and Minds (1996),5.0
+Spring,Terrorist, The (Malli) (1998),5.0
+Spring,Aparajito (1956),5.0
+Spring,Girls Town (1996),5.0
+Spring,Seven Chances (1925),5.0
+Spring,Love Is the Devil (1998),5.0
+Spring,Lonely Are the Brave (1962),5.0
+Spring,Stranger Than Paradise (1984),5.0
+Spring,Twice Upon a Yesterday (1998),5.0
+Spring,Killer: A Journal of Murder (1995),5.0
+Spring,Damsel in Distress, A (1937),5.0
+Spring,Battling Butler (1926),5.0
+Spring,Stars Fell on Henrietta, The (1995),5.0
+Spring,Lamerica (1994),5.0
+Spring,Thieves (Voleurs, Les) (1996),5.0
+Spring,Love Jones (1997),5.0
+Spring,Brother Minister: The Assassination of Malcolm X (1994),5.0
+Spring,Eighth Day, The (Le Huiti�me jour ) (1996),5.0
+Spring,One Little Indian (1973),5.0
+Spring,Ladybird Ladybird (1994),5.0
+Spring,Mirror, The (Zerkalo) (1975),5.0
+Spring,Identification of a Woman (Identificazione di una donna) (1982),5.0
+Spring,Kika (1993),5.0
+Spring,Hate (Haine, La) (1995),5.0
+Spring,Maya Lin: A Strong Clear Vision (1994),5.0
+Spring,Live Flesh (1997),5.0
+Spring,Prince of the City (1981),5.0
+Spring,Message to Love: The Isle of Wight Festival (1996),5.0
+Spring,Black Cat, White Cat (Crna macka, beli macor) (1998),5.0
+Spring,Flower of My Secret, The (La Flor de Mi Secreto) (1995),5.0
+Spring,Three Seasons (1999),5.0
+Spring,Collectionneuse, La (1967),5.0
+Spring,Marcello Mastroianni: I Remember Yes, I Remember (1997),5.0
+Spring,Bandits (1997),5.0
+Spring,Dear Jesse (1997),5.0
+Spring,Arguing the World (1996),5.0
+Spring,Roadside Prophets (1992),5.0
+Spring,Nobody Loves Me (Keiner liebt mich) (1994),5.0
+Spring,Ballad of Narayama, The (Narayama Bushiko) (1958),5.0
+Spring,Gnome-Mobile, The (1967),4.666666666666667
+Spring,Sanjuro (1962),4.666666666666667
+Spring,Open Your Eyes (Abre los ojos) (1997),4.666666666666667
+Spring,Great Day in Harlem, A (1994),4.666666666666667
+Spring,Children of Heaven, The (Bacheha-Ye Aseman) (1997),4.666666666666667
+Spring,Celebration, The (Festen) (1998),4.666666666666667
+Spring,Day of the Beast, The (El D�a de la bestia) (1995),4.666666666666667
+Spring,Roseanna's Grave (For Roseanna) (1997),4.666666666666667
+Spring,Apple, The (Sib) (1998),4.666666666666667
+Spring,400 Blows, The (Les Quatre cents coups) (1959),4.65
+Spring,City Lights (1931),4.645161290322581
+Spring,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),4.614285714285714
+Spring,Anne Frank Remembered (1995),4.6
+Spring,Shawshank Redemption, The (1994),4.590717299578059
+Spring,Matewan (1987),4.588235294117647
+Spring,Killing, The (1956),4.571428571428571
+Spring,Schindler's List (1993),4.571428571428571
+Spring,Grand Day Out, A (1992),4.543859649122807
+Spring,Godfather, The (1972),4.533333333333333
+Spring,Great Escape, The (1963),4.53125
+Spring,Double Indemnity (1944),4.507936507936508
+Spring,To Kill a Mockingbird (1962),4.504424778761062
+Spring,Usual Suspects, The (1995),4.502890173410405
+Spring,Trial, The (Le Proc�s) (1963),4.5
+Spring,Shall We Dance? (1937),4.5
+Spring,Education of Little Tree, The (1997),4.5
+Spring,After Life (1998),4.5
+Spring,Pather Panchali (1955),4.5
+Spring,Face in the Crowd, A (1957),4.5
+Spring,Rear Window (1954),4.5
+Spring,Sarafina! (1992),4.5
+Spring,Judy Berlin (1999),4.5
+Spring,Paths of Glory (1957),4.5
+Spring,Bicycle Thief, The (Ladri di biciclette) (1948),4.5
+Spring,Man and a Woman, A (Un Homme et une Femme) (1966),4.5
+Spring,To Live (Huozhe) (1994),4.5
+Spring,Girl on the Bridge, The (La Fille sur le Pont) (1999),4.5
+Spring,Black Tar Heroin: The Dark End of the Street (1999),4.5
+Spring,Decline of Western Civilization Part II: The Metal Years, The (1988),4.5
+Spring,Star Maps (1997),4.5
+Spring,Room at the Top (1959),4.5
+Spring,Joe the King (1999),4.5
+Spring,Rain (1932),4.5
+Spring,Sea Wolves, The (1980),4.5
+Spring,Cyclo (1995),4.5
+Spring,Tango Lesson, The (1997),4.5
+Spring,Love Serenade (1996),4.5
+Spring,Last Days, The (1998),4.5
+Spring,Cleo From 5 to 7 (Cl�o de 5 � 7) (1962),4.5
+Spring,Dear Diary (Caro Diario) (1994),4.5
+Spring,Endless Summer 2, The (1994),4.5
+Spring,Wrong Trousers, The (1993),4.489130434782608
+Spring,Conversation, The (1974),4.454545454545454
+Spring,Maltese Falcon, The (1941),4.448529411764706
+Spring,One False Move (1991),4.444444444444445
+Summer,I Am Cuba (Soy Cuba/Ya Kuba) (1964),5.0
+Summer,Smashing Time (1967),5.0
+Summer,Two or Three Things I Know About Her (1966),5.0
+Summer,Spiders, The (Die Spinnen, 1. Teil: Der Goldene See) (1919),5.0
+Summer,Firelight (1997),5.0
+Summer,Ulysses (Ulisse) (1954),5.0
+Summer,Savior (1998),5.0
+Summer,Lucie Aubrac (1997),5.0
+Summer,Eternity and a Day (Mia eoniotita ke mia mera ) (1998),5.0
+Summer,Apple, The (Sib) (1998),5.0
+Summer,Conceiving Ada (1997),5.0
+Summer,Sunset Strip (2000),5.0
+Summer,Return with Honor (1998),5.0
+Summer,Saltmen of Tibet, The (1997),5.0
+Summer,Three Ages, The (1923),5.0
+Summer,Belly (1998),5.0
+Summer,Bank Dick, The (1940),5.0
+Summer,Midaq Alley (Callej�n de los milagros, El) (1995),5.0
+Summer,Prisoner of the Mountains (Kavkazsky Plennik) (1996),5.0
+Summer,Jupiter's Wife (1994),5.0
+Summer,For the Moment (1994),5.0
+Summer,Lured (1947),5.0
+Summer,Song of Freedom (1936),5.0
+Summer,For All Mankind (1989),4.8
+Summer,Lamerica (1994),4.75
+Summer,Circus, The (1928),4.714285714285714
+Summer,My Best Fiend (Mein liebster Feind) (1999),4.666666666666667
+Summer,Close Shave, A (1995),4.6008968609865475
+Summer,Shawshank Redemption, The (1994),4.559633027522936
+Summer,King of Masks, The (Bian Lian) (1996),4.555555555555555
+Summer,Wrong Trousers, The (1993),4.543689320388349
+Summer,Godfather, The (1972),4.541720154043646
+Summer,General, The (1927),4.527027027027027
+Summer,Sanjuro (1962),4.526315789473684
+Summer,Rear Window (1954),4.512
+Summer,Usual Suspects, The (1995),4.5095238095238095
+Summer,Third Man, The (1949),4.506578947368421
+Summer,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),4.506382978723404
+Summer,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.502890173410405
+Summer,Anatomy (Anatomie) (2000),4.5
+Summer,Across the Sea of Time (1995),4.5
+Summer,Mating Habits of the Earthbound Human, The (1998),4.5
+Summer,So Dear to My Heart (1949),4.5
+Summer,Saragossa Manuscript, The (Rekopis znaleziony w Saragossie) (1965),4.5
+Summer,On the Ropes (1999),4.5
+Summer,24 7: Twenty Four Seven (1997),4.5
+Summer,Dangerous Game (1993),4.5
+Summer,Inheritors, The (Die Siebtelbauern) (1998),4.5
+Summer,Raw Deal (1948),4.5
+Summer,Pandora and the Flying Dutchman (1951),4.5
+Summer,Dry Cleaning (Nettoyage � sec) (1997),4.5
+Summer,Window to Paris (1994),4.5
+Summer,Schindler's List (1993),4.481770833333333
+Summer,Star Wars: Episode IV - A New Hope (1977),4.478599221789883
+Winter,Happiest Millionaire, The (1967),5.0
+Winter,Jupiter's Wife (1994),5.0
+Winter,Only Angels Have Wings (1939),5.0
+Winter,Hour of the Pig, The (1993),5.0
+Winter,Hearts and Minds (1996),5.0
+Winter,Gate of Heavenly Peace, The (1995),5.0
+Winter,Land and Freedom (Tierra y libertad) (1995),5.0
+Winter,I Am Cuba (Soy Cuba/Ya Kuba) (1964),5.0
+Winter,Baby, The (1973),5.0
+Winter,Confessional, The (Le Confessionnal) (1995),5.0
+Winter,Story of Xinghua, The (1993),5.0
+Winter,Saltmen of Tibet, The (1997),5.0
+Winter,Curdled (1996),5.0
+Winter,Train of Life (Train De Vie) (1998),5.0
+Winter,Big Trees, The (1952),5.0
+Winter,Big Combo, The (1955),5.0
+Winter,Chushingura (1962),5.0
+Winter,Time of the Gypsies (Dom za vesanje) (1989),5.0
+Winter,Gambler, The (A J�t�kos) (1997),5.0
+Winter,Skipped Parts (2000),5.0
+Winter,Pather Panchali (1955),4.8
+Winter,Dersu Uzala (1974),4.7272727272727275
+Winter,Sanjuro (1962),4.6923076923076925
+Winter,Bandits (1997),4.666666666666667
+Winter,Trial, The (Le Proc�s) (1963),4.571428571428571
+Winter,Shawshank Redemption, The (1994),4.557324840764331
+Winter,Schindler's List (1993),4.550632911392405
+Winter,Usual Suspects, The (1995),4.55
+Winter,Pawnbroker, The (1965),4.538461538461538
+Winter,Godfather, The (1972),4.528985507246377
+Winter,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),4.523809523809524
+Winter,Education of Little Tree, The (1997),4.5
+Winter,Bandit Queen (1994),4.5
+Winter,Roommates (1995),4.5
+Winter,From the Journals of Jean Seberg (1995),4.5
+Winter,Idolmaker, The (1980),4.5
+Winter,West Beirut (West Beyrouth) (1998),4.5
+Winter,City, The (1998),4.5
+Winter,When Night Is Falling (1995),4.5
+Winter,Henry: Portrait of a Serial Killer, Part 2 (1996),4.5
+Winter,Harmonists, The (1997),4.5
+Winter,Innocents, The (1961),4.5
+Winter,Firelight (1997),4.5
+Winter,Go Now (1995),4.5
+Winter,Raiders of the Lost Ark (1981),4.491228070175438
+Winter,Close Shave, A (1995),4.484848484848484
+Winter,To Kill a Mockingbird (1962),4.483443708609271
+Winter,Star Wars: Episode IV - A New Hope (1977),4.467153284671533
+Winter,It Happened One Night (1934),4.461538461538462
+Winter,Decline of Western Civilization, The (1981),4.461538461538462
+Winter,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.456410256410257
+Winter,Wrong Trousers, The (1993),4.454545454545454
+Winter,To Live (Huozhe) (1994),4.454545454545454

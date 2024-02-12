@@ -1,0 +1,20 @@
+M,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),4.58
+M,Godfather, The (1972),4.58
+M,Shawshank Redemption, The (1994),4.56
+M,Usual Suspects, The (1995),4.52
+M,Raiders of the Lost Ark (1981),4.52
+M,Star Wars: Episode IV - A New Hope (1977),4.5
+M,Schindler's List (1993),4.49
+M,Paths of Glory (1957),4.49
+M,Wrong Trousers, The (1993),4.48
+M,Close Shave, A (1995),4.47
+M,Rear Window (1954),4.47
+M,Double Indemnity (1944),4.47
+M,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.46
+M,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.46
+M,Casablanca (1942),4.46
+M,Third Man, The (1949),4.45
+M,Godfather: Part II, The (1974),4.44
+M,Lawrence of Arabia (1962),4.44
+M,One Flew Over the Cuckoo's Nest (1975),4.42
+M,Maltese Falcon, The (1941),4.41
