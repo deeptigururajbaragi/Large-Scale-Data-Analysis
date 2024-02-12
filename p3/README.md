@@ -1,5 +1,13 @@
 # Project 3: Data Science with Spark
 
+## Overview
+
+In this project, we utilize PySpark to explore the MovieLens dataset, emphasizing the discernment
+of patterns and trends. Leveraging PySpark's capabilities, our analysis covers popular genres,
+seasonal hits, yearly standouts, and the evolution of favorite movies over time. Delving deeper,
+we examine how audience preferences vary based on gender and investigate rating discrepancies,
+revealing instances where highly rated movies coexist with lower ratings.
+
 
 ## Compiling and Using
 
