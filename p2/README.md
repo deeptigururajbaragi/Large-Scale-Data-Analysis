@@ -1,20 +1,11 @@
 # Project 2: Better Inverted Index Using Spark
 
 * Author: Deepti Gururaj Baragi
-* Class: CS535 Section 1
-* Semester: 3
 
 ## Overview
 
 This Python program employs Spark to create a better inverted index for a collection of text documents. It enhances the standard inverted index by ranking documents according to their relevance, determined by word occurences within each document. The program ensures that the most relevant documents are placed at the top of the search results, maintaining alphabetical sorting incase of equal word counts. 
 
-## Reflection
-
-As I worked on this project, I found the concept behind the original wordcount Spark program to be straightforward. However, while working on the better inverted index, I adopted a step-by-step approach using a smaller dataset in Google Colab. This approach helped me break down and understand how Spark's RDDs functioned. The assignment 'Spark RDD playground' provided a strong foundation, making this project less stressful.
-
-A significant factor that greatly contributed to the success of this project was the "wholeTextFiles" feature. It allowed me to read entire text files all at once, simplifying the process of counting word occurences in each file and creating more advanced inverted index. 
-
-I am happy to share that I didn't encounter any issues this time, and the project went smoothly. 
 
 ## Compiling and Using
 
